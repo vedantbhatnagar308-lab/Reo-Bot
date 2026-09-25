@@ -132,8 +132,11 @@ Login with Discord, choose a server you manage, and configure it from the dashbo
 - The music page updates live while the bot is running.
 - The server language setting affects the help menu output.
 
+- ## Don't Forgot To Subscribe Codex ( https://youtube.com/@codexdevs?si=WE-CTBP71v-Yygj2 ) 
+
 ## License
 
 MIT License
 
 Copyright (c) 2026 Codex Development
+
